@@ -67,13 +67,5 @@ Sponsorship Shortfall: 15000.0
 Minimum Registrations Needed: 30
 ```
 
-### 6\. Explanation
 
-* Total expenses = ₹40,000.
-
-* Sponsorship = ₹25,000, so the shortfall is ₹15,000.
-
-* Each student pays ₹500.
-
-* The program calculates 15,000 ÷ 500 = 30 registrations.
 
