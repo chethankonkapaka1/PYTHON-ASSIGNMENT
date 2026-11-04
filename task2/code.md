@@ -70,15 +70,5 @@ Eligible Candidates Ranking
 4 Sneha Aggregate: 78 Subject Marks: 65
 ```
 
-### 6\. Explanation
 
-* A student is eligible if aggregate marks are at least 75 and subject marks are at least 65.
-
-* Rahul does not meet the eligibility conditions, so the program displays that he is not eligible.
-
-* The other four students are added to the eligible list.
-
-* The eligible students are sorted by aggregate marks, with subject marks used if aggregate marks are equal.
-
-* Anu gets rank 1, followed by Priya, Ravi, and Sneha.
 
